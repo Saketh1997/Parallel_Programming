@@ -1,0 +1,6 @@
+Row Labels,Sum of mega-autocorrelations computed per second
+  1 processors,317.42
+  2 processors,616.75
+  4 processors,1204.44
+  8 processors,2120.61
+Grand Total,4259.22
